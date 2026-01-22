@@ -1,9 +1,10 @@
 <h1 align="center">👋 Olá, eu sou o Tiago!</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software  
-🐍 Focado em Python e desenvolvimento backend  
+🎓 Estudante de Engenharia de Software<br>
+🐍 Focado em Python e desenvolvimento backend<br>
 🚀 Buscando estágio ou oportunidade júnior
+
 </p>
 
 ---
