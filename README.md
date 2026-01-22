@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Tiago!</h1>
 
 <p align="center">
-🎓 Estudante de <strong>Engenharia de Software</strong><br>
-🐍 Aprendendo <strong>Python</strong> e <strong>Git/GitHub</strong><br>
-🚀 Buscando oportunidades para crescer como <strong>Desenvolvedor Júnior</strong>
+🎓 Estudante de Engenharia de Software  
+🐍 Focado em Python e desenvolvimento backend  
+🚀 Buscando estágio ou oportunidade júnior
 </p>
 
 ---
