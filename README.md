@@ -1,14 +1,14 @@
 <h1 align="center">👋 Olá, eu sou o Tiago!</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software<br>
-☕ Focado em Java e C para desenvolvimento backend e projetos acadêmicos<br>
-🚀 Buscando estágio ou oportunidade júnior
+ Estudante de Engenharia de Software<br>
+ Focado em Java e C para desenvolvimento backend e projetos acadêmicos<br>
+ Buscando estágio ou oportunidade júnior
 </p>
 
 ---
 
-### 🧠 O que estou estudando
+### O que estou estudando
 - Lógica de programação com Java e C  
 - Estruturas de dados e orientação a objetos  
 - Versionamento de código com Git e GitHub  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tecnologias e ferramentas que uso
+### Tecnologias e ferramentas que uso
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -35,6 +35,3 @@ Criar projetos práticos em Java e C, mostrando minha evolução como desenvolve
 
 ---
 
-<p align="center">
-  ⭐ *Em constante aprendizado e evolução!*
-</p>
